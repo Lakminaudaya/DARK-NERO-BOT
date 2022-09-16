@@ -19,7 +19,7 @@ global.REACT_NUMBER = '94770075694'
 
 //alive logo 
 
-global.alivepic = "https://i.ibb.co/BB1DX2C/Whats-App-Image-2022-09-12-at-9-02-23-AM.jpg" //you logo key 
+global.alivepic = "https://ibb.co/k4kvKjw" //you logo key 
 
 
 
